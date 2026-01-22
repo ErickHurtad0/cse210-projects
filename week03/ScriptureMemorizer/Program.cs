@@ -5,7 +5,6 @@ class Program
 {
     static void Main()
     {
-        // Scripture library
         List<Scripture> scriptures = new List<Scripture>
         {
             new Scripture(
